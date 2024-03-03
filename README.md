@@ -20,7 +20,7 @@ return my_information
 
 ## :hammer_and_wrench: Technical Tools
 
-Programming Languages: ![python](https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=python&logoColor=white)
+Programming Languages: ![python](https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white)
 Tools and Frameworks:
 
 ## Connect With Me
