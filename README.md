@@ -1,5 +1,4 @@
-﻿![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-## :wave: Hey there!
+﻿## :wave: Hey there!
 
 I am **Natasha Upendo Moses** :woman_technologist:. I have specialised in **Data Science** and **Machine Learning** and I enjoy leveraging my AI skills to help come up with solutions to real world scenarios :desktop_computer:. I am passionate about technology and how it can be used to solve real world problems :mag:. I am also interested in learning new things and I am always looking for opportunities to learn and grow :books:.
 
@@ -56,6 +55,7 @@ return my_information
 
 ## :link: Connect With Me
 
+Feel free to connect with me! I'm always open to interesting discussions, collaborations, and new connections.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natmos910@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/natasha-upendo-moses-117297235)
