@@ -51,6 +51,12 @@ return my_information
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=NatashaMoses&theme=radical&show_icons=true)](https://github.com/NatashaMoses/github-readme-stats)
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=NatashaMoses&theme=jolly&show_icons=true)](https://github.com/NatashaMoses/github-readme-stats)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=NatashaMoses&theme=dracula&show_icons=true)](https://github.com/NatashaMoses/github-readme-stats)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=NatashaMoses&theme=rose&show_icons=true)](https://github.com/NatashaMoses/github-readme-stats)
+
 <br/>
 
 ## :link: Connect With Me
