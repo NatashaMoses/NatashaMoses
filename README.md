@@ -2,7 +2,8 @@
 ## :wave: Hey there!
 
 I am **Natasha Upendo Moses** :woman_technologist:. I have specialised in **Data Science** and **Machine Learning** and I enjoy leveraging my AI skills to help come up with solutions to real world scenarios :desktop_computer:. I am passionate about technology and how it can be used to solve real world problems :mag:. I am also interested in learning new things and I am always looking for opportunities to learn and grow :books:.
-<br>
+
+<br/>
 
 ### :blush: About Me
 
@@ -19,7 +20,7 @@ def About_Natasha():
 return my_information
 ```
 
-<br>
+<br/>
 
 ### :hammer_and_wrench: Technical Tools
 
@@ -41,13 +42,20 @@ return my_information
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen)
-![Vim](https://img.shields.io/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
+<br/>
 
+### :chart_with_upwards_trend: GitHub Stats
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Natasha-Moses)](https://github.com/NatashaMoses/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Natasha-Moses&layout=compact)](https://github.com/NatashMoses/github-readme-stats)
 
-<br>
+<br/>
 
-### Connect With Me
+### :link: Connect With Me
 
+[Email me](mailto:natmos910@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://)
