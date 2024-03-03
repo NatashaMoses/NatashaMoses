@@ -49,7 +49,7 @@ return my_information
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaMoses&layout=donut)](https://github.com/NatashaMoses/github-readme-stats)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=NatashaMoses&show_icons=true)](https://github.com/NatashaMoses/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=NatashaMoses&theme=radical&show_icons=true)](https://github.com/NatashaMoses/github-readme-stats)
 
 <br/>
 
