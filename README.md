@@ -5,7 +5,7 @@ I am **Natasha Upendo Moses** :woman_technologist:. I have specialised in **Data
 
 <br/>
 
-### :blush: About Me
+## :blush: About Me
 
 ``` py
 def About_Natasha():
@@ -22,7 +22,7 @@ return my_information
 
 <br/>
 
-### :hammer_and_wrench: Technical Tools
+## :hammer_and_wrench: Technical Tools
 
 **Programming Languages:** 
 
@@ -46,15 +46,15 @@ return my_information
 
 <br/>
 
-### :chart_with_upwards_trend: GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Natasha-Moses)](https://github.com/NatashaMoses/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Natasha-Moses&layout=compact)](https://github.com/NatashMoses/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Natasha-Moses&layout=compact)](https://github.com/NatashaMoses/github-readme-stats)
 
 <br/>
 
-### :link: Connect With Me
+## :link: Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natmos910@gmail.com)
 
