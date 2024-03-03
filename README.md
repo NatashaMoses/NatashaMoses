@@ -48,9 +48,9 @@ return my_information
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=NatashaMoses&show_icons=true)](https://github.com/NatashaMoses/github-readme-stats)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaMoses&layout=donut)](https://github.com/NatashaMoses/github-readme-stats)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=NatashaMoses&show_icons=true)](https://github.com/NatashaMoses/github-readme-stats)
 
 <br/>
 
