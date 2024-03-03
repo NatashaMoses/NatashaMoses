@@ -50,7 +50,7 @@ return my_information
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=NatashaMoses)](https://github.com/NatashaMoses/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaMoses&layout=compact)](https://github.com/NatashaMoses/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaMoses&layout=donut&show_icons=true&theme=tokyonight)](https://github.com/NatashaMoses/github-readme-stats)
 
 <br/>
 
