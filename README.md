@@ -60,3 +60,6 @@ Feel free to connect with me! I'm always open to interesting discussions, collab
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natmos910@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/natasha-upendo-moses-117297235)
+
+idjcwdin
+ cdss
