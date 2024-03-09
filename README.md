@@ -51,6 +51,8 @@ return my_information
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=NatashaMoses&theme=radical&show_icons=true)](https://github.com/NatashaMoses/github-readme-stats)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=NatashaMoses&theme=dark&hide_border=false)
+
 <br/>
 
 ## :link: Connect With Me
